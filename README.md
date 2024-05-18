@@ -134,3 +134,16 @@ docker logs dogecoin_node
 For further assistance, consult the documentation for Docker and Docker Compose.
 
 This setup ensures a smooth installation and configuration of a Dogecoin node with additional utilities, while handling system restarts gracefully.
+
+# Contributing
+If you'd like to Support Our work, contribute or donate to our projects, please donate in Dogecoin. For contributors its as easy as opening issues, and creating pull requests
+
+If You would like to support our work with Donations, Send all Dogecoin to the following Contributors:
+
+"handle": "Big Chief" "at": "@MartinSeeger2" "dogecoin_address": "DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz"
+
+"handle": "Great Ape" "at": "@Greatape42069E" "dogecoin_address": "DBpLvNcR1Zj8B6dKJp4n3XEAT4FmRxbnJb"
+
+"handle": "BillyBitcoins" "at": "@BillyBitcoins" "dogecoin_address": "DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6"
+
+"handle": "Booktoshi" "at": "@booktoshi" "dogecoin_address": "D9Ue4zayx5NP7sTSBMM9uwuzqpHv4HnkaN"
